@@ -29,7 +29,7 @@ const App = () => {
   return (
     
     <WebView
-    source={{uri: 'http://200.211.73.16:8081/TerminalWeb/Login.aspx?ReturnUrl=%2fTerminalWeb%2f'}}
+    source={{uri: 'http://200.211.73.16:8081/TerminalWeb/Login.aspx?ReturnUrl=%2fTerminalWeb%2f'}} //Endereço 
     
   />
   )
